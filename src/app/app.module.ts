@@ -11,10 +11,12 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
+//importing firebase stuff
 import { masterFirebaseConfig } from './api-keys';
 import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
+//exporting firebase stuff
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
   authDomain: masterFirebaseConfig.authDomain,
