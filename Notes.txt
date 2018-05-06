@@ -1,1 +1,6 @@
 1. I add ionic commands that I used in [square] brackets in the commits so that I do not forget them
+
+Links:
+Ionic 2 and Firebase: https://www.youtube.com/watch?v=bAqAuegNoD4
+Ionic 3 + Firebase Database Insert and Delete: https://www.youtube.com/watch?v=Q7BNG5EnXCs
+Ionic 3 Firebase tutorial how to setup firebase in Ionic: https://www.youtube.com/watch?v=tZ2LovrtrOQ
