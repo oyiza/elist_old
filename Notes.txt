@@ -1,3 +1,4 @@
 1. I add ionic commands that I used in [square] brackets in the commits so that I do not forget them
+2. Environment.ts is safely stored on the laptop. If you dont find it dont freak out.
 
 If you're still having trouble, check this out: https://javebratt.com/ionic-firebase-setup/
