@@ -28,7 +28,7 @@
     "@ionic/storage": "3.0.4",
     "ionic-angular": "3.9.10",
     "ionicons": "5.5.2",
-    "rxjs": "5.5.10",
+    "rxjs": "5.5.12",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.29"
   },
